@@ -50,3 +50,5 @@ This repository houses a Python script that leverages the power of Ollama, a lar
 * This script is for entertainment and personal exploration purposes.  Tarot readings should not be considered a substitute for professional advice or guidance.
 
 **Enjoy your journey into the mystical world of tarot with the power of Ollama!**
+
+<img src="https://2acrestudios.com/wp-content/uploads/2024/05/Screenshot-2024-05-09-at-11.03.14 PM-2.png" />
