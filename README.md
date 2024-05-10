@@ -1,6 +1,6 @@
 ## Tarot Reading with Ollama: A Python-Powered Mystic Guide
 
-<img src="https://2acrestudios.com/wp-content/uploads/2024/05/00034-2625303745.png" align="right" style="width" 300px;" />
+<img src="https://2acrestudios.com/wp-content/uploads/2024/05/00034-2625303745.png" align="right" style="width:300px;" />
 
 This repository houses a Python script that leverages the power of Ollama, a large language model, to provide insightful and interactive tarot readings. 
 
