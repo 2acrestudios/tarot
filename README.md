@@ -10,7 +10,7 @@ This repository houses a Python script that leverages the power of Ollama, a lar
 * **Multiple Spreads:** Choose from various tarot spreads, including the classic Celtic Cross, Three-Card Spread, Past/Present/Future, and more. 
 * **Customizable Readings:** Select the number of cards for your reading and specify the topic or question you want to explore. 
 * **Detailed Interpretations:** Ollama provides rich and insightful interpretations of the drawn cards, offering guidance and clarity.
-* **ASCII Art Visualization:**  (Optional) Enhance your reading experience with beautiful ASCII art representations of the tarot cards.
+* **ASCII Art Visualization:**  The reading experience is enhanced with ASCII art representations of the tarot cards.
 
 **Requirements:**
 
